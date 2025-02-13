@@ -1,0 +1,76 @@
+[
+    {
+        "pid": 3001,
+        "image": "https://www.junaidjamshed.com/media/catalog/product/m/a/marjaan-02.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=755&width=589&canvas=589:755",
+        "price": 3500,
+        "title":"MARJAAN",
+        "category":"perfrumes"
+       
+    },
+    {
+        "pid": 3002,
+        "image": "https://www.junaidjamshed.com/media/catalog/product/w/a/wasim_akram_502_2__3.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=755&width=589&canvas=589:755",
+        "price": 4000,
+        "title": "WASIM AKRAM 502",
+        "category": "perfrumes"
+    },
+    {
+        "pid": 3003,
+        "image": "https://www.junaidjamshed.com/media/catalog/product/5/0/502_for_her_1.jpg?width=420&height=560&canvas=420,560&optimize=medium&bg-color=255,255,255&fit=bounds",
+        "price": 6500,
+        "title": "WASIM AKRAM 502 FOR HER",
+        "category": "perfrumes"
+    },
+    {
+        "pid": 3004,
+        "image": "https://www.junaidjamshed.com/media/catalog/product/e/x/exclusive_1__2.jpg?width=436&height=560&canvas=436,560&optimize=medium&bg-color=255,255,255&fit=bounds",
+        "price": 6000,
+        "title": "J.EXCLUSIVE",
+        "category": "perfrumes"
+    },
+    {
+        "pid": 3005,
+        "image": "https://www.junaidjamshed.com/media/catalog/product/w/h/white_musk1_1.jpg?width=420&height=560&canvas=420,560&optimize=medium&bg-color=255,255,255&fit=bounds",
+        "price": 5600,
+        "title": "WHITE MUSK",
+        "category": "perfrumes"
+    },
+    {
+        "pid": 3006,
+        "image": "https://www.junaidjamshed.com/media/catalog/product/z/a/zarar_gold_1__1.jpg?width=420&height=560&canvas=420,560&optimize=medium&bg-color=255,255,255&fit=bounds",
+        "price": 6600,
+        "title": "ZARAR GOLD",
+        "category": "perfrumes"
+    },
+    {
+        "pid": 3007,
+        "image": "https://www.junaidjamshed.com/media/catalog/product/e/s/essence1_1.jpg?width=420&height=560&canvas=420,560&optimize=medium&bg-color=255,255,255&fit=bounds",
+        "price": 7500,
+        "title": "ESSENCE",
+        "category": "perfrumes"
+    },
+    {
+        "pid": 3008,
+        "image": "https://www.junaidjamshed.com/media/catalog/product/a/d/addicted_1_.jpg?width=436&height=560&canvas=436,560&optimize=medium&bg-color=255,255,255&fit=bounds",
+        "price": 4500,
+        "title": "ADDICTED",
+        "category": "perfrumes"
+    },
+    {
+        "pid": 3009,
+        "image": "https://www.junaidjamshed.com/media/catalog/product/r/h/rhythm_1_1.jpg?width=436&height=560&canvas=436,560&optimize=medium&bg-color=255,255,255&fit=bounds",
+        "price": 5500,
+        "title": "RHYTHM POUR HOMME",
+        "category": "perfrumes"
+    },
+    {
+        "pid": 3010,
+        "image": "https://www.junaidjamshed.com/media/catalog/product/i/n/intenso_1_.jpg?width=436&height=560&canvas=436,560&optimize=medium&bg-color=255,255,255&fit=bounds",
+        "price": 3500,
+        "title": "INTENSO",
+        "category": "perfrumes"
+    }
+
+
+]
+
